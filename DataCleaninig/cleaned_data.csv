@@ -1,9 +1,9 @@
 S.N.,Name,Age,Gender,Grade,Score,Address
-1,Milan Raut,23,M,A,3.8,Dang
-2,Amir Shapkota,22,M,A,3.9,Kathmandu
-3,Anjan Sharma,23,M,B,2.6,Dang
-4,Ram Dahal,24,M,C,2.4,Lalitpur
-5,Sita Gurung,21,F,A,3.8,Bhaktapur
-6,Hari Daas,20,M,B,2.8,Kabre
-7,Gita Magar,22,F,C,2.45,Kathmandu
-8,Shyam Bahadur,24,M,B,2.7,Lalitpur
+1,Milan Raut,23.0,M,A,3.8,Dang
+2,Amir Shapkota,22.0,M,A,3.9,Kathmandu
+3,Anjan Sharma,23.0,M,B,2.6,Dang
+4,Ram Dahal,24.0,M,C,2.4,Lalitpur
+5,Sita Gurung,21.0,F,A,3.8,Bhaktapur
+6,Hari Daas,20.0,M,B,2.8,Kabre
+7,Gita Magar,22.0,F,C,2.45,Kathmandu
+8,Shyam Bahadur,24.0,M,B,2.7,Lalitpur
