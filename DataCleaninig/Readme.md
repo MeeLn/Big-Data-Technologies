@@ -30,15 +30,16 @@
 
 ### Cleaned Data:
 The output of the cleaned data:
-   S.N.           Name   Age Gender Grade  Score    Address
-      1     Milan Raut  23.0      M     A   3.80       Dang
-      2  Amir Shapkota  22.0      M     A   3.90  Kathmandu
-      3   Anjan Sharma  23.0      M     B   2.60       Dang
-      4      Ram Dahal  24.0      M     C   2.40   Lalitpur
-      5    Sita Gurung  21.0      F     A   3.80  Bhaktapur
-      6      Hari Daas  20.0      M     B   2.80      Kabre
-      7     Gita Magar  22.0      F     C   2.45  Kathmandu
-      8  Shyam Bahadur  24.0      M     B   2.70   Lalitpur
+| S.N. | Name          | Age  | Gender | Grade | Score | Address   |
+|------|---------------|------|--------|-------|-------|-----------|
+| 1    | Milan Raut    | 23.0 | M      | A     | 3.80  | Dang      |
+| 2    | Amir Shapkota | 22.0 | M      | A     | 3.90  | Kathmandu |
+| 3    | Anjan Sharma  | 23.0 | M      | B     | 2.60  | Dang      |
+| 4    | Ram Dahal     | 24.0 | M      | C     | 2.40  | Lalitpur  |
+| 5    | Sita Gurung   | 21.0 | F      | A     | 3.80  | Bhaktapur |
+| 6    | Hari Daas     | 20.0 | M      | B     | 2.80  | Kabre     |
+| 7    | Gita Magar    | 22.0 | F      | C     | 2.45  | Kathmandu |
+| 8    | Shyam Bahadur | 24.0 | M      | B     | 2.70  | Lalitpur  |
 
 ### Visualizations:
 - **Average Scores by Grade**:![alt text](average_scores_by_grade.png)
